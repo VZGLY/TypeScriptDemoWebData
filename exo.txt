@@ -1,0 +1,13 @@
+interface article
+    - EAN13
+    - nom
+    - prix
+    - categorie => enumeration
+    - quantité
+
+liste d'articles (pomme, entrecote, brosse a dent...)
+
+fonctions
+    - si surgelé
+    - retourne tableau de fruit
+    - retourne tableau des rupture de stock
